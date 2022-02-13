@@ -11,7 +11,7 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 
 setup(
   name = 'narmaw_profile',      
-  packages = ['narm1w_profile'], 
+  packages = ['narmaw_profile'], 
   version = '0.0.1',  
   license='MIT', 
   description = 'Narmaw Profile by NarMaw The Series',
@@ -24,7 +24,7 @@ setup(
   classifiers=[
     'Development Status :: 3 - Alpha',     
     'Intended Audience :: Education',     
-    'Topic :: Software Development :: Utilities',
+    'Topic :: Utilities',
     'License :: OSI Approved :: MIT License',   
     'Programming Language :: Python :: 3',      
     'Programming Language :: Python :: 3.4',
